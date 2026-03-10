@@ -1,6 +1,6 @@
 # AI-per-BMO
 
-In questo progetto realizzeremo la parte software per un robot chiamato **BMO** realizzato da [SimoneBrancaglion](https://github.com/LeonixGamesIndustries) e da [MatteoGravina](https://github.com/Gravi09)
+In questo progetto realizzeremo la parte software per un robot chiamato **BMO** realizzato da [Simone Brancaglion](https://github.com/LeonixGamesIndustries) e da [Matteo Gravina](https://github.com/Gravi09)
 
 L'idea è quella di realizzare un **applicazione per Android** capace di eseguire in background uno **script in Python** che ci permette di avere le risposte dall'AI. Lo script usa un modello di Google con le seguenti caratteristiche:
 - **Modello:** gemini-2.5-flash 
