@@ -8,9 +8,11 @@ In questo progetto realizzeremo la parte software per un robot chiamato **BMO**,
 
 ## Obiettivo
 
-L'idea è creare un'**applicazione Android** capace di eseguire in background uno **script Python**, che permetta di ottenere risposte da un modello di intelligenza artificiale.
+L'idea è creare un'**applicazione Android** capace di mostrare la faccia di BMO e di utilizzare un LLM per rispondere a domande
 
-Lo script utilizza un modello Google con le seguenti caratteristiche:
+
+
+Utilizzeremo un modello Google con le seguenti caratteristiche:
 
 ### Modello AI
 - **Modello:** `gemini-2.5-flash`
@@ -27,6 +29,7 @@ Lo script utilizza un modello Google con le seguenti caratteristiche:
 ## Funzionalità future
 
 Successivamente verranno integrate:
+- **Attivazione al richiamo** → alla pronuncia di "Hey BMO" inizierà ad ascoltare
 - **Speech-to-Text** → trasformare la voce in testo  
 - **Text-to-Speech** → trasformare il testo in audio  
 
