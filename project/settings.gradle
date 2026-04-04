@@ -1,0 +1,2 @@
+rootProject.name = "BMO App"
+include ':app'
