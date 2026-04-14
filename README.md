@@ -45,14 +45,18 @@ Successivamente verranno integrate:
 
 ## 📅 Timeline
 
-| Step | Descrizione                  | Data        |
-|------|-----------------------------|------------|
-| 1    | IA di base                  | 10/03/2026 | 
-| 2    | Integrazione nell'app  **← siamo qui!** | 24/03/2026 |
-| 3    | Speech-to-Text              | 07/04/2026 |
-| 4    | Text-to-Speech              | 21/04/2026 |
-| 5    | UI                          | 28/04/2026 |
-| 6    | Testing & Bug Fixing        | 12/05/2026 |
-| 7    | Fine progetto               | 12–19/05/2026 |
+| Step | Descrizione                  | Data prevista   | Data di svolgimento |
+|------|-----------------------------|------------------|---------------------|
+| 1    | IA di base                  | 10/03/2026       |  10/03/2026         |
+| 2    | Integrazione nell'app       | 24/03/2026       |  24/03/2026         |
+| 3    | Speech-to-Text              | 07/04/2026       |  07/04/2026         |
+| 4    | Text-to-Speech              | 14/04/2026       |  07/04/2026         |
+| 5    | UI                          | 28/04/2026       |  10/04/2026         |
+| 6    | Testing & Bug Fixing    **← siamo qui!** | 12/05/2026 |           |
+| 7    | Fine progetto               | 12–19/05/2026    |                     |
 
 ---
+
+## Piano B
+
+In caso gli altri componenti di questo progetto, elencati all'inizio, non riuscissero a creare la parte fisica per BMO, noi abbiamo pensato ad un piano B per il nostro progetto ed è quello di aggiungere la nostra AI in un altro robottino di lumodevice.com da cui abbiamo preso spunto.
