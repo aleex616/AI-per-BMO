@@ -52,8 +52,9 @@ Successivamente verranno integrate:
 | 3    | Speech-to-Text              | 07/04/2026       |  07/04/2026         |
 | 4    | Text-to-Speech              | 14/04/2026       |  07/04/2026         |
 | 5    | UI                          | 28/04/2026       |  10/04/2026         |
-| 6    | Testing & Bug Fixing    **← siamo qui!** | 12/05/2026 |           |
-| 7    | Fine progetto               | 12–19/05/2026    |                     |
+| 6    | Testing & Bug Fixing    **← siamo qui!** | 6/05/2026 |           |
+| 7    | Creazione robot Luna        | 12/05/2026     |                     |
+| 8    | Fine progetto               | 119/05/2026    |                     |
 
 ---
 
