@@ -54,10 +54,11 @@ Successivamente verranno integrate:
 | 5    | UI                          | 28/04/2026       |  10/04/2026         |
 | 6    | Testing & Bug Fixing    **← siamo qui!** | 6/05/2026 |           |
 | 7    | Creazione robot Luna        | 12/05/2026     |                     |
-| 8    | Fine progetto               | 119/05/2026    |                     |
+| 8    | Fine progetto               | 19/05/2026    |                     |
 
 ---
 
 ## Piano B
 
 In caso gli altri componenti di questo progetto, elencati all'inizio, non riuscissero a creare la parte fisica per BMO, noi abbiamo pensato ad un piano B per il nostro progetto ed è quello di aggiungere la nostra AI in un altro robottino di lumodevice.com da cui abbiamo preso spunto.
+Questo robottino verrà costruito usando la stampante 3D e lasceremo uno spazio dove posare il telefono che servirà per comunicare con la AI.
