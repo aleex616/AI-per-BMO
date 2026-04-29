@@ -14,6 +14,7 @@ Quest'app ha le seguenti funzionalità:
 ## Obiettivo
 
 L'idea è creare un'**applicazione Android** che mostri l'orario e data e al pronunciare del suo nome "LUNA" o alla pressione del pulsante per parlare si attivi l'LLM.
+Insieme al modello 3D che gli dà la forma di un robottino, è perfetto da lasciare sul comodino e da usare come assistente digitale, hub di ricarica e sveglia.
 
 Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 
@@ -55,23 +56,31 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 ## Come iniziare
 
 1. Scarica tutto il codice dalla repository
+2. vai su google AI studio e crea la tua API key
+3. estrai la cartella zip che hai scaricato e cerca il file  !!!!! e aprilo con VS code o un altro editor di 
+4. incolla la tua API key nella variabile presente nel file
+5. Apri android studio e crea la build
+6. Installa sullo smartphone
+7. enjoy
 
 ---
 
 ## Timeline
 
-| Step | Descrizione | Data prevista | Data di svolgimento |
-|:----:|-------------|:-------------:|:-------------------:|
-| 1 | IA di base | 10/03/2026 | 10/03/2026 |
-| 2 | Integrazione nell'app | 24/03/2026 | 24/03/2026 |
-| 3 | Speech-to-Text | 07/04/2026 | 07/04/2026 |
-| 4 | Text-to-Speech | 14/04/2026 | 07/04/2026 |
-| 5 | UI | 28/04/2026 | 10/04/2026 | 12/04/2026 |
-| 6 | Realizzazione parte orologio | 30/04/2026 | | 24/04/2026 |
-| 7 | Opzioni di personalizzazione | 03/05/2026 | | 24/04/2026 |
-| 8 | Integrazione sveglia e calendario | 06/05/2026 | | 25-26/04/2026 |
-| 9 | Testing & Bug Fixing **← siamo qui!** | 08/05/2026 | | 29/04/2026 |
-| 10 | Design esterno del robot | 12/05/2026 | | 17/04/2026 |
-| 11 | Creazione dei modelli 3D su blender | 12/05/2026 | | 24/04/2026 |
-| 12 | stampa 3D| 19/05/2026 | | ??/05/2026 |
-| 13 | Fine progetto | 19/05/2026 | |
+## Timeline
+
+| Step | Descrizione                           | Data prevista | Data di svolgimento |
+|:----:|---------------------------------------|:-------------:|:-------------------:|
+| 1    | IA di base                            | 10/03/2026    | 10/03/2026          |
+| 2    | Integrazione nell'app                 | 24/03/2026    | 24/03/2026          |
+| 3    | Speech-to-Text                        | 07/04/2026    | 07/04/2026          |
+| 4    | Text-to-Speech                        | 14/04/2026    | 07/04/2026          |
+| 5    | UI                                    | 28/04/2026    | 12/04/2026          |
+| 6    | Realizzazione parte orologio          | 30/04/2026    | 24/04/2026          |
+| 7    | Opzioni di personalizzazione          | 03/05/2026    | 24/04/2026          |
+| 8    | Integrazione sveglia e calendario     | 06/05/2026    | 25-26/04/2026       |
+| 9    | Testing & Bug Fixing **← siamo qui!** | 08/05/2026    | 29/04/2026          |
+| 10   | Design esterno del robot              | 12/05/2026    | 17/04/2026          |
+| 11   | Creazione dei modelli 3D su Blender   | 12/05/2026    | 24/04/2026          |
+| 12   | Stampa 3D                             | 19/05/2026    | ??/05/2026          |
+| 13   | Fine progetto                         | 19/05/2026    |                     |
