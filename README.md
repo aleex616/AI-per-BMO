@@ -54,7 +54,7 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 ---
 
 ## Come funziona la nostra app 
-![schemaAoo](miscellaneous/schema app.png)
+![schemaAoo](miscellaneous/schemaApp.png)
 
 
 ---
