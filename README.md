@@ -63,7 +63,7 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 
 1. Scarica tutto il codice dalla repository
 2. vai su google AI studio e crea la tua API key
-3. estrai la cartella zip che hai scaricato e cerca il file gradle.properties e aprilo con VS code o un altro editor di testo
+3. estrai la cartella zip che hai scaricato e cerca il file local.properties e aprilo con VS code o un altro editor di testo
 4. incolla la tua API key nella variabile presente nel file
 5. Apri android studio e crea la build
 6. Installa sullo smartphone
