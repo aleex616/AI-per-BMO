@@ -1,17 +1,18 @@
 ## LUNA
-In questo progetto realizzeremo un dispositivo dotato di IA chiamato LUNA che sarà in grado di rispondere alle proprie domande.
-Questo dispositivo ha le seguenti funzionalità:
+In questo progetto realizzeremo un'app per smartphone dotata di IA chiamata LUNA: 
+Quest'app ha le seguenti funzionalità:
 - orologio
-- hub di ricarica
-- modello IA
+- hub di ricarica di dispositivi e dello smartphone usato
+- modello IA in cloud
 - calendario/promemoria
+- sveglia/timer
 ---
 
 ## Obiettivo
 
-L'idea è creare un'**applicazione Android** che mostri l'orario e al pronunciare del suo nome LUNA si attivi l'IA
+L'idea è creare un'**applicazione Android** che mostri l'orario e data e al pronunciare del suo nome "LUNA" o alla pressione del pulsante per parlare si attivi l'LLM 
 
-Utilizzeremo un modello Google con le seguenti caratteristiche:
+Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 
 ### Modello AI
 - **Modello:** `gemini-2.5-flash`
@@ -21,24 +22,39 @@ Utilizzeremo un modello Google con le seguenti caratteristiche:
   - 250 richieste al giorno (**RPD**)
   - 10 richieste al minuto (**RPM**)
   - 250.000 token al minuto (**TPM**)
-- **API:** gratuita
-
----
-
-## Funzionalità future
-
-Successivamente verranno integrate:
-- **Attivazione al richiamo** → alla pronuncia di "Hey BMO" inizierà ad ascoltare
-- **Speech-to-Text** → trasformare la voce in testo  
-- **Text-to-Speech** → trasformare il testo in audio  
+- **API:** gratuita per tutti da google ai studio
 
 ---
 
 ## Materiali
 
-- Smartphone
+- Smartphone (runnung android 9.0 o superiore)
 - PC
-- Fortuna  
+- Stampante 3D
+- Filamento di qualsiasi colore
+- hub USB
+- Caricatore qi MagSafe
+- Fortuna
+
+---
+
+---
+
+## Software usati:
+
+- VS code
+- android studio
+- flash print 5 (software di slicing)
+- blender
+- powerpoint
+
+---
+
+---
+
+## Cosa fare se la vuoi usare:
+
+- 1) scarica la tutto il codice dalla repositori
 
 ---
 
