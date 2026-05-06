@@ -38,6 +38,7 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 **Hardware**
 - Smartphone (Android 9.0 (pie) o superiore)
 - PC
+- chiavetta o micro SD
 - Stampante 3D
 - Filamento di qualsiasi colore
 - Hub USB
