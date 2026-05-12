@@ -86,7 +86,7 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 | 7    | Opzioni di personalizzazione          | 03/05/2026    | 24/04/2026          |
 | 8    | Integrazione sveglia e calendario     | 06/05/2026    | 25-26/04/2026       |
 | 9    | Testing & Bug Fixing                  | 08/05/2026    | 28/04/2026          |
-| 10   | Design esterno del robot              | 12/05/2026    | 17/05/2026          |
-| 11   | Creazione dei modelli 3D su Blender   | 12/05/2026    | 24/05/2026          |
+| 10   | Design esterno del robot              | 12/05/2026    | 2/05/2026          |
+| 11   | Creazione dei modelli 3D su Blender   | 12/05/2026    | 3/05/2026          |
 | 12   | Stampa 3D          **← siamo qui!**   | 19/05/2026    | ??/05/2026          |
 | 13   | Fine progetto                         | 19/05/2026    |                     |
