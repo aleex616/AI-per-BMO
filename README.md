@@ -88,5 +88,5 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 | 9    | Testing & Bug Fixing                  | 08/05/2026    | 28/04/2026          |
 | 10   | Design esterno del robot              | 12/05/2026    | 2/05/2026          |
 | 11   | Creazione dei modelli 3D su Blender   | 12/05/2026    | 3/05/2026          |
-| 12   | Stampa 3D          **← siamo qui!**   | 19/05/2026    | ??/05/2026          |
-| 13   | Fine progetto                         | 19/05/2026    |                     |
+| 12   | Stampa 3D                             | 19/05/2026    | 13/05/2026          |
+| 13   | Fine progetto        **← siamo qui!** | 19/05/2026    |                     |
