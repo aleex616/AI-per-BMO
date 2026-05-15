@@ -9,7 +9,7 @@ Quest'app ha le seguenti funzionalità:
 - Calendario/promemoria
 - Sveglia/timer
 
-![immagine di LUNA](miscellaneous/readme.png)
+![immagine di LUNA](miscellaneous/readme.jpeg)
 
 ---
 
