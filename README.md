@@ -45,6 +45,9 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 - Filamento di qualsiasi colore
 - Hub USB
 - Caricatore Qi MagSafe
+- Led e resistenze
+- switch a 3 vie
+- cavi di collegamento
 - Fortuna
 
 **Software**
